@@ -4,17 +4,13 @@
 Full-Stack Web Developer focused on building practical and meaningful applications. 
 </p>
 
----
-
-## Priamry Tech Stack
+**Priamry Tech Stack**
 - React.js / Next.js
 - DrizzleORM + NeonDB / Supabase
 
 - Portfolio: https://kjpatel.vercel.app
 
----
-
-## Philosophy
+**Philosophy**
 
 > Build things. Break them. Improve them. Repeat.
 <!--
