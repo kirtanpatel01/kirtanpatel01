@@ -63,19 +63,4 @@
 <br/>
 
 <h3 align="left">GitHub Analytics:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirtanpatel01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kirtanpatel01's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanpatel01&layout=compact&theme=tokyonight&hide_border=true" alt="kirtanpatel01's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirtanpatel01&theme=tokyonight&hide_border=true" alt="kirtanpatel01's streak" />
-</p>
-
-<br/>
-
-<h3 align="left">Contribution Snake:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kirtanpatel01/kirtanpatel01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtanpatel01&" alt="kirtanpatel01" /></p>
