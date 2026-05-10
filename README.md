@@ -23,25 +23,12 @@
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1KMqHwfBN-aia6KjsY0juJhBNSgLAEbtB/view?usp=sharing](https://drive.google.com/file/d/1KMqHwfBN-aia6KjsY0juJhBNSgLAEbtB/view?usp=sharing)**
 
 ### Connect with me
-
 [LinkedIn](https://linkedin.com/in/kjpatel-dev) •
 [Instagram](https://instagram.com/kjpatel.dev) •
 [Twitter](https://twitter.com/kjpatel_dev)
 
 ### Languages and Tools
-
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) •
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) •
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) •
-[TypeScript](https://developer.mozilla.org/en-US/docs/Web/TypeScript) •
-[React](https://react.dev) •
-[Next.js](https://nextjs.org) •
-[Tailwind CSS](https://tailwindcss.com) •
-[Node.js](https://nodejs.org) •
-[Express.js](https://expressjs.com) •
-[MongoDB](https://mongodb.com) •
-[Git](https://git-scm.com) •
-[Postman](https://postman.com)
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • Git • Postman
 
 <h3 align="left">GitHub Analytics:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtanpatel01&" alt="kirtanpatel01" /></p>
