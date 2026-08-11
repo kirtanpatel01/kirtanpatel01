@@ -1,34 +1,45 @@
-# Hi 👋, I'm Kirtan Patel
+# Hi, I'm Kirtan Patel 👋
 
-### A full stack web developer
+### Full Stack Web Developer
 
-- 🔭 I'm currently working on **a Spotify clone using React Native.**
+I like building things for the web — from polished interfaces to the backend logic and infrastructure behind them.
 
-- 🌱 I'm currently learning **Mobile Development**
+### What I'm building
 
-- 👯 I'm looking to collaborate on **open source projects related to JS/TS env.**
+* Building and experimenting with **full-stack web applications**
+* Exploring **developer tooling, APIs, system design, and scalable architectures**
+* Turning annoying problems into things I can build myself
 
-- 🤝 I'm looking for help with **building own AI model.**
+### Featured Projects
 
-- 💬 Ask me about **Javascript, React.js, Next.js.**
+🚀 **KitonCLI** (Building)
+A developer CLI for scaffolding projects with pre-configured stacks and tools.
 
-- 📫 How to reach me **kjpatel200022@gmail.com**
+📈 **Upcurve**
+A personal productivity platform combining habits, tasks, exercises, and insights.
 
-- ⚡ Fun fact **Whenever I found something irritating I just build my own. 😉**
+🧩 **More projects →**
+Check out my repositories to see what I'm currently building and experimenting with.
 
-- 👨‍💻 All of my projects are available at **[https://kjpatel.vercel.app](https://kjpatel.vercel.app)**
+### Tech I enjoy
 
-- 📝 I regularly write articles on **[https://hashnode.com/@kirtanpatel](https://hashnode.com/@kirtanpatel)**
+**Languages**
+JavaScript · TypeScript
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1KMqHwfBN-aia6KjsY0juJhBNSgLAEbtB/view?usp=sharing](https://drive.google.com/file/d/1KMqHwfBN-aia6KjsY0juJhBNSgLAEbtB/view?usp=sharing)**
+**Frontend**
+React · Next.js · HTML · CSS · Tailwind CSS
 
-### Connect with me
-[LinkedIn](https://linkedin.com/in/kjpatel-dev) •
-[Instagram](https://instagram.com/kjpatel.dev) •
-[Twitter](https://twitter.com/kjpatel_dev)
+**Backend**
+Node.js · Express.js · REST APIs
 
-### Languages and Tools
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • Git • Postman
+**Database & Backend Services**
+Supabase · PostgreSQL · MongoDB
 
-<h3 align="left">GitHub Analytics:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtanpatel01&" alt="kirtanpatel01" /></p>
+**Tools**
+Git · GitHub · Postman · Vercel
+
+### Find me around the internet
+
+[Portfolio](https://kjpatel.me) · [LinkedIn](https://linkedin.com/in/kjpatel-dev)
+
+📫 **[kjpatel200022@gmail.com](mailto:kjpatel200022@gmail.com)**
