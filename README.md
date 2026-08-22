@@ -40,6 +40,7 @@ Git · GitHub · Postman · Vercel
 
 ### Find me around the internet
 
-[Portfolio](https://kjpatel.me) · [LinkedIn](https://linkedin.com/in/kjpatel-dev)
+- Portfolio: [kjpatel.me](https://kjpatel.me)
+- LinkedIn: [kjpatel-dev](https://linkedin.com/in/kjpatel-dev)
 
 📫 **[kjpatel200022@gmail.com](mailto:kjpatel200022@gmail.com)**
