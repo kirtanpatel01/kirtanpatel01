@@ -2,45 +2,44 @@
 
 ### Full Stack Web Developer
 
-I like building things for the web — from polished interfaces to the backend logic and infrastructure behind them.
+I build full-stack web applications with a focus on thoughtful interfaces, solid backend systems, and practical solutions to real-world problems.
 
-### What I'm building
+### Currently
 
-* Building and experimenting with **full-stack web applications**
-* Exploring **developer tooling, APIs, system design, and scalable architectures**
-* Turning annoying problems into things I can build myself
+- Building and experimenting with full-stack web applications
+- Exploring system design, APIs, developer tooling, and scalable architectures
+- Turning real-world problems into software
 
-### Featured Projects
+### Selected Work
 
-🚀 **KitonCLI** (Building)
-A developer CLI for scaffolding projects with pre-configured stacks and tools.
+**Trackmark** - Internal IPR case & workflow management platform  
+**Homizo Admin** - Internal home-services operations platform  
+**[Algorion](https://algorion.in)** - Company website & AI platform, built as part of a development team
 
-📈 **Upcurve**
-A personal productivity platform combining habits, tasks, exercises, and insights.
+> Some professional projects are internal and therefore don't have public repositories.
 
-🧩 **More projects →**
-Check out my repositories to see what I'm currently building and experimenting with.
+### Public Projects
 
-### Tech I enjoy
+**[KitonCLI](https://github.com/kirtanpatel01/kitoncli)**  
+Developer CLI for scaffolding projects with pre-configured stacks and tools.
 
-**Languages**
-JavaScript · TypeScript
+**[Upcurve](https://github.com/kirtanpatel01/upcurve)**  
+Personal productivity platform combining habits, tasks, exercises, and insights.
 
-**Frontend**
-React · Next.js · HTML · CSS · Tailwind CSS
+### Tech
 
-**Backend**
-Node.js · Express.js · REST APIs
+**Languages:** JavaScript · TypeScript
 
-**Database & Backend Services**
-Supabase · PostgreSQL · MongoDB
+**Frontend:** React · Next.js · Tailwind CSS
 
-**Tools**
-Git · GitHub · Postman · Vercel
+**Backend:** Node.js · Express.js · REST APIs
 
-### Find me around the internet
+**Databases:** PostgreSQL · MongoDB · Supabase
 
-- Portfolio: [kjpatel.me](https://kjpatel.me)
-- LinkedIn: [kjpatel-dev](https://linkedin.com/in/kjpatel-dev)
+**Tools:** Git · GitHub · Postman · Vercel
 
-📫 **[kjpatel200022@gmail.com](mailto:kjpatel200022@gmail.com)**
+### Connect
+
+[Portfolio](https://kjpatel.me) · [LinkedIn](https://linkedin.com/in/kjpatel-dev)
+
+📫 kjpatel200022@gmail.com
